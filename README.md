@@ -28,7 +28,8 @@
 ## <img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="60px" height="50px"> About Some Stats
 <div align="center">
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Souravshukla007&layout=compact&theme=tokyonight" alt="souravshukla-langs"/>
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=Souravshukla007&show_icons=true&theme=tokyonight" alt="souravshukla-stats"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Souravshukla007&show_icons=true&theme=tokyonight" alt="souravshukla-stats"/>
+ 
 <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=Souravshukla007&theme=tokyonight" alt="souravshukla-Streak"/>
 </div>
 
