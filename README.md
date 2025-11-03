@@ -10,7 +10,7 @@
 - :school: I'm currently a Under Graduate student from **Indian Institute of Information Technology Nagpur - Maharashtra, India**
 - :books: My major is **Software Engineering** 
 - :earth_asia: I'm from **Silchar, Assam** :pushpin:
-- :sweat_smile: I’m an aspiring programmer :penguin:
+- :sweat_smile: I’m an Web Developer :penguin:
 - :monocle_face: I'm interested in coding, cycling :bicyclist:, and reading books
 - :sunglasses: My quote is ***"Until death, all defeat is psychological"***
 
