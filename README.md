@@ -1,8 +1,6 @@
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/Souravshukla007?style=social"> &nbsp;&nbsp; <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/Souravshukla007?style=social"> &nbsp;&nbsp; ![वीर भोग्या वसुंधरा](https://img.shields.io/badge/%E0%A4%B5%E0%A5%80%E0%A4%B0%20%E0%A4%AD%E0%A5%8B%E0%A4%97%E0%A5%8D%E0%A4%AF%E0%A4%BE%20%E0%A4%B5%E0%A4%B8%E0%A5%81%E0%A4%82%E0%A4%A7%E0%A4%B0%E0%A4%BE-8A2BE2?style=for-the-badge)
 
 
-
-
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=Heyyy!+I'm+Sourav+Shukla;Sourav_Shukla+is+me!!!;Welcome+to+my+profile!" alt="Title"></img>
 </div>
@@ -33,8 +31,14 @@
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Souravshukla007&layout=compact&theme=tokyonight" alt="souravshukla-langs"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Souravshukla007&show_icons=true&theme=tokyonight" alt="souravshukla-stats"/>
  
-<img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=Souravshukla007&theme=tokyonight" alt="souravshukla-Streak"/>
+<div align="center">
+  <img 
+    height="150em" 
+    src="https://github-readme-streak-stats.herokuapp.com?user=Souravshukla007&theme=tokyonight" 
+    alt="Sourav Shukla's GitHub Streak" 
+  />
 </div>
+
 
 <!-- <table>
     <tr>
