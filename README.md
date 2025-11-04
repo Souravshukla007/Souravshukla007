@@ -1,4 +1,4 @@
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/Souravshukla007?style=social"> &nbsp;&nbsp; <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/Souravshukla007?style=social"> &nbsp;&nbsp; <img alt="वीर भोग्या वसुंधरा" src="https://img.shields.io/badge/वीर_भोग्या_वसुंधरा-8A2BE2?style=for-the-badge&labelColor=8A2BE2&color=8A2BE2" />
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/Souravshukla007?style=social"> &nbsp;&nbsp; <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/Souravshukla007?style=social"> &nbsp;&nbsp; <img alt="वीर भोग्या वसुंधरा" src="https://img.shields.io/badge/वीरभोग्यावसुंधरा-8A2BE2?style=for-the-badge&labelColor=8A2BE2&color=8A2BE2" />
 
 
 <div align="center">
