@@ -1,4 +1,4 @@
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/Souravshukla007?style=social"> &nbsp;&nbsp; <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/Souravshukla007?style=social"> &nbsp;&nbsp; <img alt="Sourav_SB097 | Count Views" src="https://img.shields.io/badge/वीर%20भोग्या%20वसुंधरा-8A2BE2" />
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/Souravshukla007?style=social"> &nbsp;&nbsp; <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/Souravshukla007?style=social"> &nbsp;&nbsp; <img alt="Sourav_SB097 src="https://img.shields.io/badge/वीर%10भोग्या%10वसुंधरा-8A2BE2"/>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=Heyyy!+I'm+Sourav+Shukla;Sourav_Shukla+is+me!!!;Welcome+to+my+profile!" alt="Title"></img>
