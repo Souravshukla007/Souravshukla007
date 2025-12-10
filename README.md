@@ -1,4 +1,6 @@
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/Souravshukla007?style=social"> &nbsp;&nbsp; <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/Souravshukla007?style=social"> &nbsp;&nbsp; ![वीर भोग्या वसुंधरा](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjR6MzVvcGxxcm1mYzhwN2pzd2l6dDN5bTJqbXZyb3RvdDc0dGg3dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bsWDUSFUmJCOk/giphy.gif)
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/Souravshukla007?style=social"> &nbsp;&nbsp; <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/Souravshukla007?style=social"> &nbsp;&nbsp; ![वीर भोग्या वसुंधरा]
+
+(https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjR6MzVvcGxxcm1mYzhwN2pzd2l6dDN5bTJqbXZyb3RvdDc0dGg3dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bsWDUSFUmJCOk/giphy.gif)
 
 
 <div align="center">
