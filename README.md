@@ -9,7 +9,7 @@
 - :credit_card: My full name is **Sourav Shukla Baidya** <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjR6MzVvcGxxcm1mYzhwN2pzd2l6dDN5bTJqbXZyb3RvdDc0dGg3dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bsWDUSFUmJCOk/giphy.gif" width="400" align="right"/>
 - :school: I'm currently a Under Graduate student from **Indian Institute of Information Technology Nagpur - Maharashtra, India**
 - :books: My major is **Software Engineering** 
-- :earth_asia: I'm from **Silchar, Assam** :pushpin:
+- :earth_asia: I'm from **Silchar, Assam. Currently residing in Hyderabad** :pushpin:
 - :sweat_smile: I’m an Web Developer :penguin:
 - :monocle_face: I'm interested in coding, cycling :bicyclist:, and reading books
 - :sunglasses: My quote is ***"Until death, all defeat is psychological"***
